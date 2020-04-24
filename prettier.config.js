@@ -1,5 +1,5 @@
-module.exports ={
-    sungleQuote: true,
+module.exports = {
+    singleQuote: true,
     trailingComma: 'all',
     arrowParens: 'avoid'
 }
